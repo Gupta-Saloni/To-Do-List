@@ -1,0 +1,44 @@
+body
+{
+background-image: linear-gradient(to right,blue, violet);
+}
+#add{
+    color:white;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 35px;
+    margin: 0px 15px; 
+}
+#data
+{
+    height: 30px;
+    width: 650px;
+}
+
+#temp{
+    color:grey;
+    background-color:white;
+    border:  1px solid black;
+    padding: 20px;
+    display: flex;
+    height:30px;
+} 
+#temp p{
+margin-right: auto;
+color:black;
+text-align: left;
+line-height: 0px;
+font-size: 25px;
+}
+
+#temp button{
+color:white;
+background-color: green;
+border: none;
+border-radius: 10px;
+padding: 0px 15px;
+margin: 0px 15px;
+}
+
+
